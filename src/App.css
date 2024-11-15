@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  max-width: 900px;
+}
+
+h2 {
+  border-radius: 8px;
+}
+
+.card {
+  border-radius: 8px;
+}
+
+.card-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.card-body {
+  padding: 20px;
+}
+
